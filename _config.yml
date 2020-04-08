@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Komail Dharsee"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate | Department of Computer Science | University of Rochester"
+  bio              : "PhD Candidate"
   location         : "Rochester, NY"
-  employer         :
+  employer         : University of Rochester
   pubmed           : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : komail.dharsee@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
