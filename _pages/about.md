@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Komail Dharsee"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,3 +8,6 @@ redirect_from:
   - /about.html
 ---
 
+Hello!
+
+I am a Ph.D. candidate in the Department of Computer Science at University of Rochester, advised by [John Criswell](https://www.cs.rochester.edu/u/criswell/ "John Criswell")
