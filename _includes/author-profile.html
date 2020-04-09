@@ -16,8 +16,9 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{
-      author.bio<br />author.dept<br />author.uni}}</p>{% endif %}
+    {% if author.bio %}<p class="author__bio">{{ author.bio }}<br />{% endif %}
+    {% if author.dept %}{{ author.dept }}<br />{% endif %}
+    {% if author.uni %}{{ author.uni }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
