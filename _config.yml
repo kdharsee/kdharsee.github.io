@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Let's Do This"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Komail Dharsee"
 description              : &description "personal description"
