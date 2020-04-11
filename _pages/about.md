@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Komail Dharsee"
-excerpt: "About me"
+title: "About Me"
+excerpt: "Komail Dharsee"
 author_profile: true
 redirect_from: 
   - /about/
