@@ -27,13 +27,13 @@ I work in systems security. I have worked with **compiler** and **operating syst
 * **Pacific Northwest National Laboratory** _Intern_ (March - July 2020)
 * **MIT Lincoln Laboratory** _Intern_ (June - Sept 2018, May - Aug 2019)
 * **AcquireMedia** _Software Engineer_ (June 2015 - Aug 2016)
-* **Microsoft** _Microsoft Student Partner_ (Sept 2013 - June 2014)
 * **Rutgers University** _Undergraduate Assistant Researcher_ (Sept 2012 - Dec 2013)
 
 ## Community
 * **iMentor Workshop (CCS)** _Mentor_ Nov 2020
 * **EuroSys Shadow PC** Apr 2021
 * **UofR CS Events Committee** _Chair_ Sept 2017 - Aug 2021 
+* **Microsoft** _Technical Evangelist_ Sept 2013 - June 2014
 
 ## Collaboration
 Let's talk about research! I'm always eager to meet new potential collaborators. I have an itch to work on formal reasoning over quantum systems. The best way to reach me is through email. 
