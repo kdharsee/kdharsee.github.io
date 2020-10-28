@@ -12,7 +12,7 @@ Hello!
 
 I am a **Ph.D. candidate** in the Department of **Computer Science** at  **University of Rochester**, advised by [John Criswell](https://www.cs.rochester.edu/u/criswell/ "John Criswell"). I also serve the department community as the **Events Chair,** hosting regular community-building events!
 
-I grew up in East Africa, Tanzania, and (besides research) I enjoy talking about coffee and new recipes!
+I grew up in Dar es Salaam, Tanzania, and (besides research) I enjoy talking about coffee and new recipes!
 
 ## Research Interests
 I work in systems security. I have worked with **compiler** and **operating systems** solutions to **hardware threats** such as design-time hardware bugs. More recently I've gained significant interest in applying **formal methods** to specify and translate security between system abstractions such as the ISA and microarchitecture. I'm currently investigating techniques for translating formally specified architecture-based security policies to the gate-level to preempt placement of stealthy, yet devastating, hardware trojans.
