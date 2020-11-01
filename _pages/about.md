@@ -30,10 +30,10 @@ I work in systems security. I have worked with **compiler** and **operating syst
 * **Rutgers University** _Undergraduate Assistant Researcher_ (Sept 2012 - Dec 2013)
 
 ## Community
-* **iMentor Workshop (CCS 2020)** _Mentor_ Nov 2020
-* **EuroSys 2020** _Shadow PC_ Apr 2021
-* **UofR CS Events Committee** _Chair_ Sept 2017 - Aug 2021 
-* **Microsoft** _Technical Evangelist_ Sept 2013 - June 2014
+* **iMentor Workshop (CCS 2020)** _Mentor_ (Nov 2020)
+* **EuroSys 2020** _Shadow PC_ (Apr 2021)
+* **UofR CS Events Committee** _Chair_ (Sept 2017 - Aug 2021)
+* **Microsoft** _Technical Evangelist_ (Sept 2013 - June 2014)
 
 ## Collaboration
 Let's talk about research! I'm always eager to meet new potential collaborators. I have an itch to work on formal reasoning over quantum systems. The best way to reach me is through email. 
