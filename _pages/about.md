@@ -31,7 +31,7 @@ I work in systems security. I have worked with **compiler** and **operating syst
 
 ## Community
 * **iMentor Workshop (CCS 2020)** _Mentor_ Nov 2020
-* **EuroSys 2020 Shadow PC** Apr 2021
+* **EuroSys 2020** _Shadow PC_ Apr 2021
 * **UofR CS Events Committee** _Chair_ Sept 2017 - Aug 2021 
 * **Microsoft** _Technical Evangelist_ Sept 2013 - June 2014
 
